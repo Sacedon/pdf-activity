@@ -66,9 +66,9 @@
     <div class="container">
         <div class="address">
             <img src="{{public_path('images/large.png')}}" class="logo" alt="Logo">
-            <p>123 Main Street</p>
-            <p>City, State ZIP</p>
-            <p>Tel. No.: 555-666-7890</p>
+            <p>Tinangnan</p>
+            <p>Bohol, Tubigon</p>
+            <p>Tel. No.: 09486306766</p>
         </div>
 
         <h1>Client Summary</h1>
